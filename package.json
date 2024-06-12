@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "tsx watch src/index.ts"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.11.2",
+    "@langchain/community": "^0.2.10",
+    "@supabase/supabase-js": "^2.43.4",
+    "hono": "^4.4.5",
+    "langchain": "^0.2.5",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "tsx": "^4.7.1"
+  }
+}
