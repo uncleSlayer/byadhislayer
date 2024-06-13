@@ -1,3 +1,3 @@
 import { createClient } from '@supabase/supabase-js'
 
-export const client = createClient('https://lnaoywapbwxzvvhrcfjd.supabase.co', 'byadhislayer')
+export const client = createClient('https://lnaoywapbwxzvvhrcfjd.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxuYW95d2FwYnd4enZ2aHJjZmpkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxODIwMzA1OCwiZXhwIjoyMDMzNzc5MDU4fQ.RoazsKMQY1R7ATinEK_QBy6zpNzcCzR4JLGZi3949v0')
